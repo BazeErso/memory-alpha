@@ -2,7 +2,7 @@
 name: Heroku Build Error
 about: Report a Heroku Build Error Preventing Deployment
 title: ''
-labels: Deployment Errors
+labels: Build, Deployment Errors
 assignees: ''
 
 ---
